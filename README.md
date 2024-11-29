@@ -13,10 +13,13 @@ git clone --depth=1https://github.com/hanwckf/immortalwrt-mt798x.git
 
 终端输入
 cd immortalwrt-mt798x
+
 #MT7981
 cp -f defconfig/mt7981-ax3000.config .config
+
 #MT7986
 cp -f defconfig/mt7986-ax6000.config .config
+
 #MT7986 256M Low Memory
 cp -f defconfig/mt7986-ax6000-256m.config .config
 
