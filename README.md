@@ -8,7 +8,9 @@
 
 2.拉取源码
 终端输入 ,其他源码自行git，此处只做示例！
+
 git clone --depth=1https://github.com/hanwckf/immortalwrt-mt798x.git
+
 终端输入
 cd immortalwrt-mt798x
 #MT7981
