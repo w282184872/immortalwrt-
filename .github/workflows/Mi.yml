@@ -27,7 +27,11 @@ env:
   UPLOAD_FIRMWARE: false
   UPLOAD_RELEASE: ture
   TZ: Asia/Shanghai
-
+  
+permissions:
+  actions: write
+  contents: write
+  
 jobs:
   build:
     runs-on: ubuntu-22.04
