@@ -84,6 +84,8 @@ TZ: Asia/Shanghai
             
 6.N小时后去releases下载编译好的固件，教程到此结束！
                
+
+地址：192.168.3.1  密码：无
               
 感谢P3TERX/Actions-OpenWrt的云编译项目
 其他进阶使用移步大佬博客P3TERX
